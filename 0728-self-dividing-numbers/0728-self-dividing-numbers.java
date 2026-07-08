@@ -2,17 +2,17 @@ class Solution {
     public List<Integer> selfDividingNumbers(int left, int right) {
         List<Integer> n=new ArrayList<>();
         for(int i=left; i<=right;i++){
-            int f=(String.valueOf(i)).length();
+            Boolean f=true;
             int k=i;
-            for(int j=0;j<f;j++){
+            while(k>0){
                 int r=k%10;
-                if(r==0) break;
-                if(i%r!=0){
+                if(r==0 || i%r!=0){
+                    f=false;
                     break;
                 }
                 k/=10;
             }
-            if(k==0){
+            if(f){
                 n.add(i);
             }
         }

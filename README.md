@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0035-search-insert-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0013-roman-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0412-fizz-buzz) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->

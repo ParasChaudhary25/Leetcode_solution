@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1512-number-of-good-pairs) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->

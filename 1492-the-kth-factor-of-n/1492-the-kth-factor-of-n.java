@@ -1,12 +1,12 @@
 class Solution {
     public int kthFactor(int n, int k) {
-        List<Integer> fac=new ArrayList<>();
+        int c=0;
         for(int j=1;j<=n;j++){
-            if(n%j==0) fac.add(j);
+            if(n%j==0) {
+                c++;
+                if(c==k) return j;
+            }
         }
-        if(fac.size()<k) return -1;
-        else{
-            return fac.get(k-1);
-        }
+        return -1;
     }
 }

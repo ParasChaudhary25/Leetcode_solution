@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0779-k-th-symbol-in-grammar](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1486-xor-operation-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0029-divide-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0779-k-th-symbol-in-grammar](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [1486-xor-operation-in-an-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1486-xor-operation-in-an-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0002-add-two-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |

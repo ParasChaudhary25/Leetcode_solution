@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0504-base-7) |
+| [1768-merge-strings-alternately](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1768-merge-strings-alternately) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1768-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/2396-strictly-palindromic-number) |
 ## String Matching
 |  |

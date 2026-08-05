@@ -2,11 +2,12 @@ class Solution {
     public int[] sortArrayByParity(int[] nums) {
         int l=0;
         int h=nums.length-1;
+        //int piv=nums[l];
         while(l<h){
-            if(l<nums.length-1 && nums[l]%2==0){
+            while(l<nums.length-1 && nums[l]%2==0){
                 l++;
             }
-            if(h>-1 && nums[h]%2!=0){
+            while(h>-1 && nums[h]%2!=0){
                 h--;
             }
             if(l<h){
@@ -14,6 +15,7 @@ class Solution {
                 nums[l]=nums[h];
                 nums[h]=temp;
             }
+            
         }
         return nums;
     }

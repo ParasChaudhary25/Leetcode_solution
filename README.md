@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0090-subsets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->

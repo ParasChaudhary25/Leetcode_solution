@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1768-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/2396-strictly-palindromic-number) |
@@ -154,10 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0779-k-th-symbol-in-grammar](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Matrix
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3345-smallest-divisible-digit-product-i) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

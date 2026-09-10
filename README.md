@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0877-stone-game](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0905-sort-array-by-parity) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0905-sort-array-by-parity) |
 ## Linked List
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -221,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

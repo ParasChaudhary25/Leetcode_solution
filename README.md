@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0090-subsets-ii) |
 ## Enumeration

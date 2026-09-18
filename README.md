@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0090-subsets-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1688-count-of-matches-in-tournament) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0054-spiral-matrix) |
 ## Prefix Sum
 |  |
 | ------- |

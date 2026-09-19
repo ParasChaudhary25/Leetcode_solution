@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0877-stone-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1486-xor-operation-in-an-array) |

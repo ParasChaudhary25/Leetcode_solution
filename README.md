@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0877-stone-game](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |

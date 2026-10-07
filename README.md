@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0400-nth-digit](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

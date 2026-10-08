@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0400-nth-digit](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0704-binary-search) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0069-sqrtx) |
 | [0400-nth-digit](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0412-fizz-buzz) |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

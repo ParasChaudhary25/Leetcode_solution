@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
 | ------- |

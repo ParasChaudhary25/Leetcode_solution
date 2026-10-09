@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0400-nth-digit](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0400-nth-digit) |
+| [0441-arranging-coins](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |

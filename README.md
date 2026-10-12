@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0504-base-7) |
 | [1768-merge-strings-alternately](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1768-merge-strings-alternately) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Greedy
 |  |
 | ------- |

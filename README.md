@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0069-sqrtx) |
+| [0263-ugly-number](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0263-ugly-number) |
 | [0400-nth-digit](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0412-fizz-buzz) |

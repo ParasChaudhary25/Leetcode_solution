@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 | [0400-nth-digit](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0412-fizz-buzz) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 | [0877-stone-game](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0264-ugly-number-ii) |
 ## Merge Sort
 |  |
 | ------- |

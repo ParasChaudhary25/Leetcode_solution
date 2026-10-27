@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/ParasChaudhary25/Leetcode_solution/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0088-merge-sorted-array) |
